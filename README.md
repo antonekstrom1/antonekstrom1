@@ -28,7 +28,7 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 
 ### My Stats
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonekstrom1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonekstrom1&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonekstrom1&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anton's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonekstrom1&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
