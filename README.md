@@ -9,7 +9,7 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 
 - My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
 - Frontend Developer Student at Folkuniversitetet Gothenburg
-- I love creative coding because it allows me to design and code. Building beautiful interfaces with code is very satisfying to me.
+- I love creative coding because it allows me to both design and code. Creating beautiful interfaces and amazing user experiences with code is very satisfying to me.
 
 ---
 
