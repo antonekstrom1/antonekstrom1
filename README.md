@@ -3,18 +3,18 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: About Me
+### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies. I've been building stuff on the web since when I was a young teenager, I've made countless side projects. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies. I've been building stuff on the web since when I was a young teenager, I've made countless side projects.
 
-- 💼 My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
-- 🎓 Frontend Developer Student at Folkuniversitetet Gothenburg
-- ❤️ I love creative coding because it allows me to design and code. Building beautiful interfaces with code is very satisfying to me.
-- 📫 Let's get in touch! &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-antonekstrom-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-ekstrom/)
+- My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
+- Frontend Developer Student at Folkuniversitetet Gothenburg
+- I love creative coding because it allows me to design and code. Building beautiful interfaces with code is very satisfying to me.
+- [![Linkedin Badge](https://img.shields.io/badge/Let's%20get%20in%20touch!-Click%20here-%230077b5)](https://www.linkedin.com/in/anton-ekstrom/)
 
 ---
 
-### 🛠 Technology
+### Technology
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 
 ---
 
-### 📈 My Stats
+### My Stats
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonekstrom1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonekstrom1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
