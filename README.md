@@ -5,12 +5,11 @@
 
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies. I've been building stuff on the web since when I was a young teenager, I've made countless side projects.
+Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies. I've been building stuff on the web since  I was a young teenager, and i've made countless side projects.
 
 - My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
 - Frontend Developer Student at Folkuniversitetet Gothenburg
 - I love creative coding because it allows me to design and code. Building beautiful interfaces with code is very satisfying to me.
-- [![Linkedin Badge](https://img.shields.io/badge/Let's%20get%20in%20touch!-Click%20here-%230077b5)](https://www.linkedin.com/in/anton-ekstrom/)
 
 ---
 
@@ -31,3 +30,8 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonekstrom1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonekstrom1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+---
+
+### Let's get in touch!
+<a href="https://www.linkedin.com/in/anton-ekstrom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
