@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies. I've been building stuff on the web since  I was a young teenager, mainly gaming related. Unfortunately young me was not clever enough to upload all these side projects to my Github, which I now regret, mainly for nostalgic reasons. But now thanks to my studies, i will upload all my side and school-projects here, and you will also be able to filter my projects in the star-section.
+Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies. I've been building stuff on the web since a young teenager, mainly gaming related. Unfortunately young me was not clever enough to upload all these side projects to my Github, which I now regret, mainly for nostalgic reasons. But now thanks to my studies, i will start to upload side and school projects here, and you will also be able to filter through my projects in the star-section.
 
 - Frontend Developer Student at Folkuniversitetet Gothenburg.
 - I love creative coding because it allows me to both design and code. Creating beautiful interfaces and amazing user experiences with code is very satisfying to me.
