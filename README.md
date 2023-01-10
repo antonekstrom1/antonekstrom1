@@ -41,6 +41,7 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" title="Google Ads" **alt="Google Ads"width="40" height="40"/>&nbsp;
 <img src="https://www.inmobile.com/media/j0wep45k/klaviyo_glyph2-01.svg?width=500&height=500" title="Klaviyo" **alt="Klaviyo"width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonekstrom1&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anton's github stats"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonekstrom1&layout=compact&theme=graywhite&hide_border=true" /></a> |
