@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and ecommerce. I've been building stuff on the web since a young teenager. Unfortunately young me was not clever enough to upload all these side projects to my Github, which I now regret, mainly for nostalgic reasons. But now thanks to my studies, i will start to upload side and school projects here, and you will also be able to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars">star-section</a>.
+Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. Unfortunately young me was not clever enough to upload all these side projects to my Github, which I now regret, mainly for nostalgic reasons. But now thanks to my studies, i will start to upload side and school projects here, and you will also be able to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars">star-section</a>.
 
 - Frontend Developer Student at Folkuniversitetet Gothenburg.
 - My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
