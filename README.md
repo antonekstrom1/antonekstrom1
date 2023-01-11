@@ -1,10 +1,6 @@
-<h1 align="center">alert( 'Hey there!' ); <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. Unfortunately young me was not clever enough to upload all these side projects to my Github, which I now regret, mainly for nostalgic reasons. But now thanks to my studies, i will start to upload side and school projects here, and you will also be able to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars">star-section</a>.
+Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. Feel free to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars">star-section</a>.
 
 - Frontend Developer Student at Folkuniversitetet Gothenburg.
 - My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
@@ -41,11 +37,6 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" title="Google Ads" **alt="Google Ads"width="40" height="40"/>&nbsp;
 <img src="https://www.inmobile.com/media/j0wep45k/klaviyo_glyph2-01.svg?width=500&height=500" title="Klaviyo" **alt="Klaviyo"width="40" height="40"/>&nbsp;
 </p>
-
----
-
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonekstrom1&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anton's github stats"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonekstrom1&layout=compact&theme=graywhite&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ---
 
