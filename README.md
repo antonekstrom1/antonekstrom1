@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. Feel free to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars">star-section</a>.
+Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. Feel free to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
 - Frontend Developer Student at Folkuniversitetet Gothenburg.
 - My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
@@ -34,4 +34,4 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 ---
 
 ### Let's get in touch!
-<a href="https://www.linkedin.com/in/anton-ekstrom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/anton-ekstrom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"></a>
