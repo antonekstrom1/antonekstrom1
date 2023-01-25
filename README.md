@@ -18,17 +18,18 @@ Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden
 <a href="https://antonekstrom.com"><img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" title="GitHub" **alt="GitHub" width="26" height="26"/></a>&nbsp;
 <a href="https://antonekstrom.com"><img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="Git" **alt="Git" width="26" height="26"/></a>&nbsp;
 <a href="https://antonekstrom.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codepen/codepen-plain.svg" title="CodePen" **alt="CodePen" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" title="Shopify" **alt="Shopify" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/309617280_508434824625672_7654556464113266929_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_WjIgEJ8pSQAX_q720N&_nc_ht=scontent-arn2-1.xx&oh=00_AfDiAmnXmkwHE1W3PcvtVuTyF6WMizu7NrnpJuzlY0Q7Dw&oe=63C162C6" title="Quickbutik" **alt="Quickbutik" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://startcommunication.se/wp-content/uploads/2020/03/imbox_logo_1080x1080.png" title="Imbox" **alt="Imbox" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://play-lh.googleusercontent.com/tDXSaAt_I_qx6am_rTcQ1WHaXo6ncfiB-b742DnSXZkJGASvs15yRYnvzogzbYwse0QD" title="Klarna Merchant Portal" **alt="Klarna Merchant Portal" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://www.screamingfrog.co.uk/wp-content/uploads/2018/11/screaming-frog-logo-kg.jpg" title="Screaming Frog SEO Spider" **alt="Screaming Frog SEO Spider" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://cdn.worldvectorlogo.com/logos/google-lighthouse-icon-may-2019-.svg" title="Google Lighthouse" **alt="Google Lighthouse" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" title="Google Analytics" **alt="Google Analytics" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://cdn.worldvectorlogo.com/logos/google-merchant-center.svg" title="Google Merchant Center" **alt="Google Merchant Center" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" title="Google Search Console" **alt="Google Search Console" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" title="Google Ads" **alt="Google Ads" width="26" height="26"/></a>&nbsp;
-<a href="https://antonekstrom.com"><img src="https://www.inmobile.com/media/j0wep45k/klaviyo_glyph2-01.svg?width=500&height=500" title="Klaviyo" **alt="Klaviyo" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" title="Shopify" **alt="Shopify" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/309617280_508434824625672_7654556464113266929_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=p8GuGJx0v1wAX9lQieX&_nc_ht=scontent-arn2-1.xx&oh=00_AfB8CbLrrsqJN8w3Z3uCT5CCbBLETqaWj00JS3JTH5rPcA&oe=63D52946" title="Quickbutik" **alt="Quickbutik" width="26" height="26"/></a>&nbsp;
+ <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" title="Slack" **alt="Slack" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://startcommunication.se/wp-content/uploads/2020/03/imbox_logo_1080x1080.png" title="Imbox" **alt="Imbox" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://play-lh.googleusercontent.com/tDXSaAt_I_qx6am_rTcQ1WHaXo6ncfiB-b742DnSXZkJGASvs15yRYnvzogzbYwse0QD" title="Klarna Merchant Portal" **alt="Klarna Merchant Portal" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://www.screamingfrog.co.uk/wp-content/uploads/2018/11/screaming-frog-logo-kg.jpg" title="Screaming Frog SEO Spider" **alt="Screaming Frog SEO Spider" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/google-lighthouse-icon-may-2019-.svg" title="Google Lighthouse" **alt="Google Lighthouse" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" title="Google Analytics" **alt="Google Analytics" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/google-merchant-center.svg" title="Google Merchant Center" **alt="Google Merchant Center" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" title="Google Search Console" **alt="Google Search Console" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" title="Google Ads" **alt="Google Ads" width="26" height="26"/></a>&nbsp;
+<a href="#"><img src="https://www.inmobile.com/media/j0wep45k/klaviyo_glyph2-01.svg" title="Klaviyo" **alt="Klaviyo" width="26" height="26"/></a>&nbsp;
 </p>
 
 ---
