@@ -1,11 +1,11 @@
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious entrepreneur and frontend developer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. Feel free to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
+Hi, I'm Anton Ekstrom, a curious developer and designer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. I highly value writing simple and high-impact code with the user and business perspective in mind. Feel free to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
 - Frontend Developer Student at Folkuniversitetet Gothenburg.
 - My daily work as Chief Technology Officer at Villahome.se consists of taking on, innovating and developing system-efficient solutions, primarily for our e-commerce platform and IT infrastructure. Frontend development is frequent.
 - I love creative coding because it allows me to both design and code. Creating beautiful interfaces and amazing user experiences with code is very satisfying to me.
-- In my free time, I like to travel, spend time with my girlfriend and family, cook, and delve into philosophical, historical, technological, and other geeky subjects. And last but not least, <strong>I love to learn.</strong>
+- In my free time i prefer spending time with my girlfriend, family and freinds. I also love traveling and have a lengthy bucketlist of countries and places i would love to visit. And last but not least, <strong>i love learning new cool technologies.</strong>
 
 ### Languages and tools
 
