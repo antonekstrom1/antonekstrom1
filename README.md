@@ -1,9 +1,29 @@
 ### About Me
 
-Hi, I'm Anton Ekstrom, a curious developer and designer from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. I highly value writing simple and high-impact code with the user and business perspective in mind. Feel free to filter through my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
+I'm a curious entrepeneur and webdeveloper from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. I have a strong appreciation for creating and implementing straightforward and impactful solutions, always keeping the user and business perspective in mind. Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>. for further validation.
 
 ### Languages and tools
+HTML, CSS, JavaScript, React, Agile/Scrum, UX/UI, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, CodePen, ScreamingFrog
 
+### E-commerce stack
+Shopify, Quickbutik, Wix, Wordpress, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Ads, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager
+
+### Education
+Frontend Developer at Folkuniversitetet Gothenburg
+
+### My top 5 Certifications
+- <a href="https://www.credly.com/badges/89642bd3-3b69-4ee3-bfa1-63419b2d1a9c/linked_in_profile">Shopify Foundations Certification</a>
+- <a href="https://www.credly.com/badges/37dda9c6-7e72-444b-992e-7b2815bfe104/linked_in_profile">Partner Education: Upgrade Shopify Checkout</a>
+- <a href="https://www.seocert.se/certifikat/rn8A0/uK">SEO Certification by Pineberry</a>
+- <a href="https://learndigital.withgoogle.com/digitalakademin/validate-certificate-code">Fundementals of digital marketing by Google</a>
+- <a href="https://app-eu1.hubspot.com/academy/achievements/pqql4xwx/en/1/anton-ekstrom/social-media-marketing-certification-course">Social Media Marketing certification by HubSpot Academy</a>
+
+<i>See more of my licenses and certifications <a href="https://www.linkedin.com/in/anton-ekstrom/details/certifications/">here</a>.</i>
+
+### Let's get in touch!
+<a href="https://www.linkedin.com/in/anton-ekstrom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"></a>
+
+<!--
 <p>
 <a href="#"><img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" title="HTML" alt="HTML" width="26" height="26"/></a>&nbsp;
 <a href="#"><img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667"  title="CSS" alt="CSS" width="26" height="26"/></a>&nbsp;
@@ -25,9 +45,4 @@ Hi, I'm Anton Ekstrom, a curious developer and designer from Sweden with a genui
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" title="Google Search Console" **alt="Google Search Console" width="26" height="26"/></a>&nbsp;
 <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" title="Google Ads" **alt="Google Ads" width="26" height="26"/></a>&nbsp;
 <a href="#"><img src="https://www.inmobile.com/media/j0wep45k/klaviyo_glyph2-01.svg" title="Klaviyo" **alt="Klaviyo" width="26" height="26"/></a>&nbsp;
-</p>
-
----
-
-### Let's get in touch!
-<a href="https://www.linkedin.com/in/anton-ekstrom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"></a>
+</p>-->
