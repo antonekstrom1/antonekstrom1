@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a curious entrepeneur and webdeveloper from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. I have a strong appreciation for creating and implementing straightforward and impactful solutions, always keeping the user and business perspective in mind. Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>. for further validation.
+I'm a curious entrepeneur and webdeveloper from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. I have a strong appreciation for creating and implementing straightforward and impactful solutions, always keeping the user and business perspective in mind. Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
 ### Languages and tools
 HTML, CSS, JavaScript, React, Agile/Scrum, UX/UI, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, CodePen, ScreamingFrog
