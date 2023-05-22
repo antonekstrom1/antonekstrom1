@@ -3,10 +3,10 @@
 I'm a curious entrepeneur and webdeveloper from Sweden with a genuine passion for web technologies and e-commerce. I've been building stuff on the web since a young teenager. I have a strong appreciation for creating and implementing straightforward and impactful solutions, always keeping the user and business perspective in mind. Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
 ### Languages and tools
-HTML, CSS, JavaScript, React, Agile/Scrum, UX/UI, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, CodePen, ScreamingFrog
+HTML, CSS, JavaScript, React, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, CodePen, ScreamingFrog, GTmetrix, Ahrefs, Sistrix
 
 ### E-commerce stack
-Shopify, Quickbutik, Wix, Wordpress, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Ads, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager
+Shopify, Quickbutik, Wix, Wordpress, Channable, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google Ads, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager
 
 ### Education
 Frontend Developer at Folkuniversitetet Gothenburg
