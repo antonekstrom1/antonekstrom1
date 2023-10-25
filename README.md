@@ -1,13 +1,13 @@
 ### About Me
 
-I'm an curious entrepreneur from Sweden, driven by a profound passion for e-commerce and web technologies. With a proven track record, I've successfully built and managed my own e-commerce venture Villahome.se, earning the prestigious E-retailer of the Year 2023 award, presented by PriceRunner. This accolade was achieved amidst stiff competition, including renowned brands like Nordic Nest and Royal Design.
+I am a curious e-commerce entrepreneur from Sweden, driven by a profound passion for web technologies.
 
 My approach centres on crafting and implementing straightforward yet impactful solutions, always with a keen focus on both the user experience and business objectives. I thrive in high-speed environments and feel most at ease when faced with challenges that push me beyond my comfort zone. My commitment to what i do runs deep, and what truly distinguishes me is my entrepreneurial mindset. To me, challenges are opportunities waiting to be seized, and questions are invitations to discover answers.
 
 Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
 ### Languages and tools
-HTML, CSS, JavaScript, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, CodePen, ScreamingFrog, GTmetrix, Ahrefs, Sistrix
+HTML, CSS, JavaScript, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, Trello, Slack, Notion, CodePen, ScreamingFrog, GTmetrix, Ahrefs, Sistrix
 
 ### E-commerce stack
 Shopify, Quickbutik, Wix, Wordpress, Channable, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google Ads, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager, and much more.
