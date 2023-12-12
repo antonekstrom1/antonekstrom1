@@ -1,6 +1,6 @@
 ### About Me
 
-I am a curious e-commerce entrepreneur from Sweden, driven by a profound passion for web technologies.
+I am a curious e-commerce entrepreneur from Sweden, driven by a profound passion for web technologies and making commerce better for everyone.
 
 My approach centres on crafting and implementing straightforward yet impactful solutions, always with a keen focus on both the user experience and business objectives. I thrive in high-speed environments and feel most at ease when faced with challenges that push me beyond my comfort zone. My commitment to what i do runs deep, and what truly distinguishes me is my entrepreneurial mindset. To me, challenges are opportunities waiting to be seized, and questions are invitations to discover answers.
 
