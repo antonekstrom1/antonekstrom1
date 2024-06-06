@@ -7,7 +7,7 @@ My approach centres on crafting and implementing straightforward yet impactful s
 Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
 ### Languages and tools
-HTML, CSS, JavaScript, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, Trello, Slack, Notion, CodePen, ScreamingFrog, GTmetrix, Ahrefs, Sistrix
+HTML, CSS, JavaScript, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, Monday, Trello, Slack, Notion, CodePen, ScreamingFrog, GTmetrix, Ahrefs, Sistrix
 
 ### E-commerce stack
 Shopify, Quickbutik, Wix, Wordpress, Channable, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google Ads, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager, and much more.
