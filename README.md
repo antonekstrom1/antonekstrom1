@@ -1,8 +1,6 @@
 ### About Me
 
-I am a curious entrepreneur from Sweden, driven by a profound passion for web technologies and making commerce better for everyone. With a proven track record, I've acquired industry expertise firsthand through overseeing my own e-commerce ventures. Additionally, I've garnered valuable perspectives from an agency standpoint, closely collaborating with global clients and prominent brands.
-
-My approach centres on crafting and implementing straightforward yet impactful solutions, always with a keen focus on both the user experience and business objectives. I thrive in high-speed environments and feel most at ease when faced with challenges that push me beyond my comfort zone. My commitment to what i do runs deep, and what truly distinguishes me is my entrepreneurial mindset. To me, challenges are opportunities for innovation and growth, while questions are gateways to discovering new answers.
+E-commerce specialist with a solid track record in digital retail and  e-commerce, specializing in Shopify. Experienced in project management and business development, with a passion for driving growth and improving commerce.
 
 Please feel free to explore my projects in the <a href="https://github.com/antonekstrom1?tab=stars" title="GitHub Stars" alt="GitHub Stars">star-section</a>.
 
@@ -10,7 +8,7 @@ Please feel free to explore my projects in the <a href="https://github.com/anton
 HTML, CSS, JavaScript, Microsoft Visual Studio Code, Chrome Developer Tools, GitHub, Git, Figma, Monday, Trello, Slack, Notion, CodePen, ScreamingFrog, GTmetrix, Ahrefs, Sistrix
 
 ### E-commerce stack
-Shopify, Quickbutik, Wix, Wordpress, Channable, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google Ads, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager, and much more.
+Shopify, Quickbutik, Magento, BigCommerce, Prestashop, Wix, Wordpress, Channable, Klaviyo, Imbox, Triggerbee, Klarna Merchant Portal, Google Ads, Google PageSpeed Insights, Google Analytics, Google Search Console, Google Merchant Center, Meta Ads Manager, Meta Business Suite, Meta Commerce Manager, and much more.
 
 ### Education
 Frontend Developer at Folkuniversitetet Gothenburg
